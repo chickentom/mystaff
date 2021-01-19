@@ -1,4 +1,4 @@
-# mystaff
+# mystuff
 Hier findest du mein gesamtes Zeug, dass nützlich sein könnte:
 
 # Documentation
